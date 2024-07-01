@@ -7,7 +7,7 @@ import re
 app = Flask(__name__)
 
 
-genai.configure(api_key="AIzaSyAXLV-zYfdZEOcqCzDnIGzoyPuP21ux15A")
+genai.configure(api_key="")
 
 logging.basicConfig(level=logging.DEBUG)
 
