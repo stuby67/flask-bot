@@ -113,13 +113,13 @@ th, td {
 }
 
 th {
-    background-color: #333;
-    color: #ffffff;
+    background-color: #fff;
+    color: #281f1f;
 }
 
 td {
-    background-color: #1e1e1e;
-    color: #ffffff;
+    background-color: #dcf8c6;
+    color: #281f1f;
 }
 
 a.button {
